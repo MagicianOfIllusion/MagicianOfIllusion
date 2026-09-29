@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**MagicianOfIllusion/MagicianOfIllusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Hey I am Noah 👋
 
-Here are some ideas to get you started:
+I am currently an IB high school student and my current interest include discrete and continuous math.
+I like photography and movies. My top 5 movies are... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. The Seventh Seal 
+2. Drive 
+3. Stalker (1978)
+4. The 400 Blows
+5. La Jetée
+
+
+
+
+##**stuff I've used:**
+
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Lisp](https://img.shields.io/badge/lisp-%23000000.svg?style=for-the-badge&logo=lisp&logoColor=white)
+
+### Game Development
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-%23FF7F7F.svg?style=for-the-badge&logo=renpy&logoColor=white)
+
+### Hardware & Electronics
+![Arduino](https://img.shields.io/badge/Arduino_IDE-008184?style=for-the-badge&logo=arduino&logoColor=white)
