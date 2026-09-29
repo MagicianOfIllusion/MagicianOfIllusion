@@ -1,5 +1,5 @@
 
-#Hey I am Noah 👋
+# Hey I am Noah 👋
 
 I am currently an IB high school student and my current interest include discrete and continuous math.
 I like photography and movies. My top 5 movies are... 
@@ -13,10 +13,10 @@ I like photography and movies. My top 5 movies are...
 
 
 
-##**stuff I've used:**
+## **stuff I've used:**
 
 ### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge)
 ![Lisp](https://img.shields.io/badge/lisp-%23000000.svg?style=for-the-badge&logo=lisp&logoColor=white)
 
 ### Game Development
