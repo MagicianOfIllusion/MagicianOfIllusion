@@ -1,8 +1,7 @@
 
 # Hey I am Noah 👋
 
-I am currently an IB high school student and my current interest include discrete and continuous math.
-I like photography and movies. My top 5 movies are... 
+My top 5 movies are... 
 
 1. The Seventh Seal 
 2. Drive 
