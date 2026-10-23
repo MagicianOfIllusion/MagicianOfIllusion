@@ -9,9 +9,6 @@ My top 5 movies are...
 4. The 400 Blows
 5. La Jetée
 
-
-
-
 ## **stuff I've used:**
 
 ### Languages
@@ -24,3 +21,5 @@ My top 5 movies are...
 
 ### Hardware & Electronics
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-008184?style=for-the-badge&logo=arduino&logoColor=white)
+
+
