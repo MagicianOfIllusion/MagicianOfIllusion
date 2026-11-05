@@ -1,5 +1,5 @@
 
-# Hey I am Noah 👋
+# Hello 🐤
 
 My top 5 movies are... 
 
@@ -12,8 +12,7 @@ My top 5 movies are...
 ## **stuff I've used:**
 
 ### Languages
-![Python](https://shields.io)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Game Development
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
