@@ -12,8 +12,8 @@ My top 5 movies are...
 ## **stuff I've used:**
 
 ### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge)
-![Lisp](https://img.shields.io/badge/lisp-%23000000.svg?style=for-the-badge&logo=lisp&logoColor=white)
+![Python](https://shields.io)
+
 
 ### Game Development
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
