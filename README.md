@@ -12,6 +12,8 @@ My top 5 movies are...
 ## **stuff I've used:**
 
 ### Languages
+![Top Languages](https://vercel.app)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Game Development
