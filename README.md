@@ -1,7 +1,7 @@
 
 # Hello 🐤
 
-My top 5 movies are... 
+My favourite movies are... 
 
 1. The Seventh Seal 
 2. Drive 
@@ -12,8 +12,6 @@ My top 5 movies are...
 ## **stuff I've used:**
 
 ### Languages
-
-![Top Languages](./path/to/generated-pie-chart.svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
